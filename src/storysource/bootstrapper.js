@@ -11,7 +11,7 @@ import {
   createReset,
   convert
 } from "@storybook/theming";
-
+console.log("");
 addDecorator(storyFn => (
   <ThemeProvider theme={convert(themes.light)}>
     <Global styles={createReset} />

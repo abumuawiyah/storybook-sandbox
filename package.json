@@ -6,6 +6,7 @@
     "@storybook/core-events": "latest",
     "@storybook/react": "latest",
     "@storybook/router": "latest",
+    "prop-types": "15.7.2",
     "react": "latest",
     "styled-components": "4.4.0"
   },
